@@ -58,7 +58,8 @@ pip install -r requirements.txt
     <img src="output/output.jpg" alt="Output Image 2" width="45%"/>
 </p>
 
-(![output/output.jpg](https://github.com/ronit16/face-detection-blurring/blob/main/output/output.jpg))
+### WebCam Output
+![output/output.jpg](https://github.com/ronit16/face-detection-blurring/blob/main/assets/webcam.png)
 
 ## Contributing
 

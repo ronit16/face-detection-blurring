@@ -13,7 +13,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/face-detection-blurring.git
+    git clone https://github.com/ronit16/face-detection-blurring.git
     cd face-detection-blurring
     ```
 
@@ -53,8 +53,12 @@ pip install -r requirements.txt
 ## Output
 
 ### Example Output
+<p align="center">
+    <img src="assets/test_image.jpg" alt="Output Image 1" width="45%"/>
+    <img src="output/output.jpg" alt="Output Image 2" width="45%"/>
+</p>
 
-![Example Output](path_to_your_output_image.png)
+(![output/output.jpg](https://github.com/ronit16/face-detection-blurring/blob/main/output/output.jpg))
 
 ## Contributing
 
